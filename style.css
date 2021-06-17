@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(207, 245, 207);
+    flex: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
